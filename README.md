@@ -20,3 +20,6 @@
 |  | API 1.2 | Authorised user enters invalid password , response code 401. | Invalid c redentials  | response code is 401. |  |  |  |
 |  | API 1.3 | Valid password and invalid username then response code 401. | Response code is 401 on invalid credentials. | response code is 2401 |  |  |  |
 
+
+
+# Testplan
