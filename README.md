@@ -22,7 +22,11 @@
 
 
 
-# Testplan
+<details><summary> TestPlan </summary>
+<p>
+
+
+
 
 | Feature to be tested | Approach | Testing task | Responsibilities | Schedule | Pass/Fail |
 | --- | --- | --- | --- | --- | --- |
@@ -32,6 +36,9 @@
 | API response | Manual testing with postman software | Checking the response code with postman | All the team members will be executing this independently |  |  |
 | Database | Verification by inspection | Entering user name and password and inspecting the database for that particular entry | All the team members will be executing this independently |  |  |
 
+
+</p>
+</details>
 
 # Testreport
 
