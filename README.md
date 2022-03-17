@@ -1,5 +1,39 @@
-# Witchers---2
+# PERSONAL NEWS FEED.
 
+## Test Plan
+<details><summary>Sprint 1</summary>
+<p>
+  
+| Feature to be tested | Approach | Testing task | Responsibilities | Schedule | Pass/Fail |
+| --- | --- | --- | --- | --- | --- |
+| Login username and password functionality.| Manual testing | Enter username and password in the login form | Preet will perform manual testing on UX 1 |  |  |
+| Functionality of sign up page and the requirements fo different fields.| Manual testing | Click on signup page and try signing up with username and password | Pushti will perform the testing on sign up page and the requirements |  |  |
+| Link between sign up page and login page after filling out the sign up details | Manual testing | After signing up it should navigate to sign in page and should be able to login with new login credentials. | Muhaimin |  |  |
+| API response | Manual testing with postman software | Checking the response code with postman | All the team members will be executing this independently |  |  |
+| Database | Verification by inspection | Entering user name and password and inspecting the database for that particular entry | All the team members will be executing this independently |  |  |
+
+</p>
+</details>
+
+
+<details><summary>Sprint 2</summary>
+<p>
+  
+| Feature to be tested | Approach | Testing task | Responsibilities | Schedule | Pass/Fail |
+| --- | --- | --- | --- | --- | --- |
+| Login username and password functionality.| Manual testing | Enter username and password in the login form | Preet will perform manual testing on UX 1 |  |  |
+| Functionality of sign up page and the requirements fo different fields.| Manual testing | Click on signup page and try signing up with username and password | Pushti will perform the testing on sign up page and the requirements |  |  |
+| Link between sign up page and login page after filling out the sign up details | Manual testing | After signing up it should navigate to sign in page and should be able to login with new login credentials. | Muhaimin |  |  |
+| API response | Manual testing with postman software | Checking the response code with postman | All the team members will be executing this independently |  |  |
+| Database | Verification by inspection | Entering user name and password and inspecting the database for that particular entry | All the team members will be executing this independently |  |  |
+
+</p>
+</details>
+
+## Test Case
+<details> <summary> Test Cases </summary>
+  <p>
+    
 | Test Category | Test Category | Test case description | Test steps | Expected result | Prerequisites | Executed by | Pass/Fail |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | UX 1 | UX 1.1 | Valid username and valid password | Enter a valid Username, password and click on login button. | Successful login | Valid Url  and browser | Preet | Pass |
@@ -20,29 +54,22 @@
 |  | API 1.2 | Authorised user enters invalid password , response code 401. | Invalid c redentials  | response code is 401. |  |  |  |
 |  | API 1.3 | Valid password and invalid username then response code 401. | Response code is 401 on invalid credentials. | response code is 2401 |  |  |  |
 
-
-
-<details><summary> # TestPlan </summary>
-<p>
-  
-| Feature to be tested | Approach | Testing task | Responsibilities | Schedule | Pass/Fail |
-| --- | --- | --- | --- | --- | --- |
-| Login username and password functionality.| Manual testing | Enter username and password in the login form | Preet will perform manual testing on UX 1 |  |  |
-| Functionality of sign up page and the requirements fo different fields.| Manual testing | Click on signup page and try signing up with username and password | Pushti will perform the testing on sign up page and the requirements |  |  |
-| Link between sign up page and login page after filling out the sign up details | Manual testing | After signing up it should navigate to sign in page and should be able to login with new login credentials. | Muhaimin |  |  |
-| API response | Manual testing with postman software | Checking the response code with postman | All the team members will be executing this independently |  |  |
-| Database | Verification by inspection | Entering user name and password and inspecting the database for that particular entry | All the team members will be executing this independently |  |  |
-
-</p>
-</details>
+  </p>
+  </details>
 
 # Testreport
+
+<details><summary>Test Report</summary>
+ <p> 
 
 | Date of test plan | Test case ID | Person executed the test | Pass/Fail | Comments |
 | --- | --- | --- | --- | --- |
 | 15 Feb'22 | UX 1 | Preet | F | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
+| 15 Feb'22 | UX 1 | Preet | F | |
+| 15 Feb'22 | UX 1 | Preet | F | |
+| 15 Feb'22 | UX 1 | Preet | F | |
+| 15 Feb'22 | UX 1 | Preet | F | |
+| 15 Feb'22 | UX 1 | Preet | F | |
+
+  </p>
+  </details>
