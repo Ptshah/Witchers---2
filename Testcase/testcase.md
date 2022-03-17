@@ -6,9 +6,9 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | UX 1 | UX 1.1 | Valid username and valid password | Enter a valid Username, password and click on login button. | Successful login | Valid Url  and browser | Preet | Pass |
 |  | UX 1.2 | Valid username and invalid password | Enter a valid Username, invalid password and click on login button. | A pop-up message box to show invalid username/password. | Valid Url  and browser | Preet | Pass |
-|  | UX 1.3 | Invalid username and valid password | Enter Invalid username and valid password  | A pop-up message box to show invalid username/password. | A pop-up message box to show invalid username/password. | Preet | Pass |
-|  | UX 1.4 | Invalid username and valid password | Enter Invalid username and valid password  | A pop-up message box to show invalid username/password. | A pop-up message box to show invalid username/password. | Preet | Pass |
-|  | UX 1.5 | Blank field for username and valid password | Enter Invalid username and valid password  | A pop-up message box to show invalid username/password. | A pop-up message box to show invalid username/password. | Preet | Pass |
+|  | UX 1.3 | Invalid username and valid password | Enter Invalid username and valid password  | A pop-up message box to show invalid username/password. | Valid Url browser | Preet | Pass |
+|  | UX 1.4 | Invalid username and valid password | Enter Invalid username and valid password  | A pop-up message box to show invalid username/password. | Valid Url browser | Preet | Pass |
+|  | UX 1.5 | Blank field for username and valid password | Enter Invalid username and valid password  | A pop-up message box to show invalid username/password. | Valid Url Browser | Preet | Pass |
 |  | UX 1.6 | Valid  username and blank field for password | Enter Invalid username and valid password  | A pop-up message box to show invalid username/password. | Valid Url  and browser | Preet | Pass |
 |  | UX 1.7 | Blank field for username and  password | Leave both blank and press login button.  | A pop-up message box to show invalid username/password. | Valid Url  and browser |  |  |
 | UX 2 | UX 2.1 | By clicking  the sign up it should land him to another page for signing up | Click the sign up button below the login fields  | It should direct you to the sign up page  | Valid Url  and browser |  |  |
