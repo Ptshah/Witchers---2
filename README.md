@@ -31,3 +31,6 @@
 | Link between sign up page and login page after filling out the sign up details | Manual testing | After signing up it should navigate to sign in page and should be able to login with new login credentials. | Muhaimin |  |  |
 | API response | Manual testing with postman software | Checking the response code with postman | All the team members will be executing this independently |  |  |
 | Database | Verification by inspection | Entering user name and password and inspecting the database for that particular entry | All the team members will be executing this independently |  |  |
+
+
+#Testreport
