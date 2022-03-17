@@ -33,4 +33,4 @@
 | Database | Verification by inspection | Entering user name and password and inspecting the database for that particular entry | All the team members will be executing this independently |  |  |
 
 
-#Testreport
+# Testreport
