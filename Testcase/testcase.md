@@ -21,4 +21,4 @@
 | API1 | API 1.1 | Authorised user should sign up succesfully with response code 200. | Enter correct credentials  | Response code is 200 | Postman for checking response code. | Muhaimin |  |
 |  | API 1.2 | Authorised user enters invalid password , response code 401. | Invalid ceredentials  | response code is 401. | Postman for checking response code | Muhaimin |  |
 |  | API 1.3 | Valid password and invalid username then response code 401. | Response code is 401 on invalid credentials. | response code is 401 | Postman for checking response code | Muhaimin |  |
-|  | TC 1.1 | Default landing page should display the new article. | Run your project and it should land you on articles page. | New article fetch from the API | https://newsapi.org/ |  |  |
+|  | TC 1.1 | Default landing page should display the new article. | Run your project and it should land you on articles page. | News article fetch from the API from general category. | https://newsapi.org/ | Preet |  |
